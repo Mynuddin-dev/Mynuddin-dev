@@ -36,8 +36,10 @@ Here are some ideas to get you started:
 
 <img  align = "left" alt ="Jupyter Notebook Image" width = "26px" src = https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png />
 
-<img  align = "left" alt ="Matplotlib Image" width = "26px" src = https://miro.medium.com/max/1280/1*siIjJNFy3n70jAaHSZdOyQ.png />
 
+<img  align = "left" alt ="Matplotlib Image" width = "26px" src = https://static.javatpoint.com/tutorial/matplotlib/images/matplotlib-tutorial.png />
+<img  align = "left" alt ="Seaborn " width = "26px" src = https://user-images.githubusercontent.com/315810/92254613-279c8000-ee9f-11ea-9b73-5622a7d95f3f.png />
+<img  align = "left" alt ="Microsoft Power BI " width = "26px" src = https://cdn.corporatefinanceinstitute.com/assets/power-bi.png />
 
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
