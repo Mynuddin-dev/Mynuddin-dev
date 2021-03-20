@@ -24,7 +24,23 @@ Here are some ideas to get you started:
 <img  align = "left" alt ="C Programming Image" width = "26px" src = https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png />
 <img  align = "left" alt ="CodeBlocks Image" width = "26px" src = https://carlossilesblog.files.wordpress.com/2020/05/codeblocks_logo.png />
 
+
+
+
+<img  align = "left" alt ="Python Image" width = "26px" src =  https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png />
+
+
+<img  align = "left" alt ="Spyder Image" width = "26px" src = https://www.pinclipart.com/picdir/big/180-1807410_spyder-icon-clipart.png />
+
+
+<img  align = "left" alt ="Jupyter Notebook Image" width = "26px" src = https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png />
+
+<img  align = "left" alt ="Matplotlib Image" width = "26px" src = https://miro.medium.com/max/1280/1*siIjJNFy3n70jAaHSZdOyQ.png />
+
+
+
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
