@@ -41,8 +41,9 @@ Here are some ideas to get you started:
 
 <p align="center">
   
-<a href="https://github.com/Mynuddin-dev"><img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mynuddin-dev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mynuddin-dev&layout=compact&langs_count=5&theme=algolia"/>
+<a href="https://github.com/Mynuddin-dev">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mynuddin-dev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mynuddin-dev&layout=compact&langs_count=5&theme=algolia"/>
 </a>
 </p>
 
@@ -54,8 +55,9 @@ Here are some ideas to get you started:
 <p>
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mynuddin-dev&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mynuddin-dev&theme=radical&layout=compact&exclude_lang=java+r" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mynuddin-dev&langs_count=8" />
 </a>
+  
 </p>
 -->
 
