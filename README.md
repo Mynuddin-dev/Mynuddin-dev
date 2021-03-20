@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ![Mynuddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mynuddin-dev&show_icons=true&theme=radical)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mynuddin-dev&layout=compact&langs_count=8)](https://github.com/Mynuddin-dev/github-readme-stats)
 
 
-### Languages and Tools:
+## Languages and Tools:
 
 <img  align = "left" alt ="C Programming Image" width = "26px" src = https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png />
 <img  align = "left" alt ="CodeBlocks Image" width = "26px" src = https://carlossilesblog.files.wordpress.com/2020/05/codeblocks_logo.png />
