@@ -26,8 +26,9 @@ Here are some ideas to get you started:
 
 
 
-
 <img  align = "left" alt ="Python Image" width = "26px" src =  https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png />
+
+<img  align = "left" alt ="Anaconda Image" width = "26px" src = https://www.pngitem.com/pimgs/m/241-2413401_anaconda-python-icon-hd-png-download.png />
 
 
 <img  align = "left" alt ="Spyder Image" width = "26px" src = https://www.pinclipart.com/picdir/big/180-1807410_spyder-icon-clipart.png />
