@@ -24,7 +24,13 @@ Here are some ideas to get you started:
 <img  align = "left" alt ="C Programming Image" width = "26px" src = https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png />
 <img  align = "left" alt ="CodeBlocks Image" width = "26px" src = https://carlossilesblog.files.wordpress.com/2020/05/codeblocks_logo.png />
 
+<img  align = "left" alt ="Java Image" width = "26px" src =  https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png />
 
+
+
+<img  align = "left" alt ="Netbeans Image" width = "26px" src =  https://welearnedtogether.com/wp-content/uploads/2019/10/netbeans.jpg />
+
+<img  align = "left" alt ="R Image" width = "26px" src =https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png />
 
 <img  align = "left" alt ="Python Image" width = "26px" src =  https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png />
 
