@@ -1,10 +1,7 @@
 ### Hi there , "I am MD Mynuddin" 👋
 
-<!--
-**Mynuddin-dev/Mynuddin-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
 
-Here are some ideas to get you started:
--->
+
 
 - 🔭 I’m currently working on Javascript
 - 🌱 I’m currently learning Everythings
@@ -48,20 +45,10 @@ Here are some ideas to get you started:
 </p>
 
 
-<!--
-![Mynuddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mynuddin-dev&show_icons=true&theme=radical)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mynuddin-dev&layout=compact&langs_count=8)](https://github.com/Mynuddin-dev/github-readme-stats)
 
-## My Stats
-<p>
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mynuddin-dev&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mynuddin-dev&langs_count=8" />
-</a>
-  
-</p>
--->
-
-## Languages and Tools:
+<details>
+  <summary>⚡ Languages and Tools: </summary>
+  <br/>
 
 <img  align = "left" alt ="C Programming Image" width = "26px" src = https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png />
 <img  align = "left" alt ="CodeBlocks Image" width = "26px" src = https://carlossilesblog.files.wordpress.com/2020/05/codeblocks_logo.png />
@@ -107,3 +94,10 @@ Here are some ideas to get you started:
 
 <br />
 <br />
+</details>
+
+## 🙋‍♂️ Connect with me
+<p align="center">
+  
+  
+  </p>
