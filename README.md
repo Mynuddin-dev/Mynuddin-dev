@@ -12,7 +12,7 @@
 - 🌱  I'm on track for learning DataScience, AI, ML and Deep Learning.
 - 🎓  I'm currently studying Software Engineering at Noakhali Science and Technology University
 - 👯  I’m looking to collaborate Who Working on DataScience
-- ✉️  You can shoot me an email at <a href="mailto:dr.mdmynuddin@gmail.com"><img src="https://img.shields.io/badge/Gmail-05122A?style=flat&logo=Gmail&logoColor=white" /></a> I'll try to respond as soon as I can.
+- ✉️  You can shoot me an email at dr.mdmynuddin@gmail.com I'll try to respond as soon as I can.
 - 💬  Fell free to knock me :)
 - ⚡  Fun fact: I am a good Chef 😄 and Game Lover also.
 
@@ -49,42 +49,6 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mynuddin-dev&layout=compact&langs_count=5&theme=algolia"/>
 </a>
 </p>
-
-
-
-<details>
-  <summary>⚡ Languages and Tools: </summary>
-  <br/>
-
-<img  align = "left" alt ="Java Image" width = "26px" src =  https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png />
-
-
-
-<img  align = "left" alt ="Netbeans Image" width = "26px" src =  https://welearnedtogether.com/wp-content/uploads/2019/10/netbeans.jpg />
-
-<img  align = "left" alt ="R Image" width = "26px" src =https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png />
-
-<
-<img  align = "left" alt ="Anaconda Image" width = "26px" src = https://www.pngitem.com/pimgs/m/241-2413401_anaconda-python-icon-hd-png-download.png />
-
-
-<img  align = "left" alt ="Spyder Image" width = "26px" src = https://www.pinclipart.com/picdir/big/180-1807410_spyder-icon-clipart.png />
-
-
-<img  align = "left" alt ="Jupyter Notebook Image" width = "26px" src = https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png />
-
-
-<img  align = "left" alt ="Matplotlib Image" width = "26px" src = https://static.javatpoint.com/tutorial/matplotlib/images/matplotlib-tutorial.png />
-<img  align = "left" alt ="Seaborn " width = "26px" src = https://user-images.githubusercontent.com/315810/92254613-279c8000-ee9f-11ea-9b73-5622a7d95f3f.png />
-<img  align = "left" alt ="Microsoft Power BI " width = "26px" src = https://cdn.corporatefinanceinstitute.com/assets/power-bi.png />
-
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<br />
-<br />
-</details>
-
 
 <p align="center">
   
