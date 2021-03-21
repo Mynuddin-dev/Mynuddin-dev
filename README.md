@@ -1,15 +1,20 @@
-### Hi there , "I am MD Mynuddin" 👋
+<p align="center">
+  <h2 align="center">👽 Helllllooo Aliens <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h2> 
+  
+  <p align="center">You have finally discovered my Github profile, huhhhh 💪</p>
+</p>
 
 
+![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png?raw=true)
 
 ### 👨🏻‍💻 &nbsp;About Me
 - 💡  I like to explore new technologies, new language, Problem solving and quick hacks.
-- 🌱 I'm on track for learning DataScience, AI, ML and Deep Learning.
-- 🎓 I'm currently studying Software Engineering at Noakhali Science and Technology University
-- 👯 I’m looking to collaborate Who Working on DataScience
-- ✉️ You can shoot me an email at dr.mdmynuddin@gmail.com I'll try to respond as soon as I can.
-- 💬 Fell free to knock me :)
-- ⚡ Fun fact: I am a good Chef 😄 and Game Lover also.
+- 🌱  I'm on track for learning DataScience, AI, ML and Deep Learning.
+- 🎓  I'm currently studying Software Engineering at Noakhali Science and Technology University
+- 👯  I’m looking to collaborate Who Working on DataScience
+- ✉️  You can shoot me an email at <a href="mailto:dr.mdmynuddin@gmail.com"><img src="https://img.shields.io/badge/Gmail-05122A?style=flat&logo=Gmail&logoColor=white" /></a> I'll try to respond as soon as I can.
+- 💬  Fell free to knock me :)
+- ⚡  Fun fact: I am a good Chef 😄 and Game Lover also.
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
