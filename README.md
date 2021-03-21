@@ -13,7 +13,7 @@
 - 🎓  I'm currently studying Software Engineering at Noakhali Science and Technology University
 - 👯  I’m looking to collaborate Who Working on DataScience
 - ✉️  You can shoot me an email at dr.mdmynuddin@gmail.com I'll try to respond as soon as I can.
-- 💬  Fell free to knock me :)
+- 💬  Feel free to knock me :)
 - ⚡  Fun fact: I am a good Chef 😄 and Game Lover also.
 
 
@@ -46,7 +46,7 @@
   
 <a href="https://github.com/Mynuddin-dev">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mynuddin-dev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mynuddin-dev&layout=compact&langs_count=5&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mynuddin-dev&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
