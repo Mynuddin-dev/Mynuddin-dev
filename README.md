@@ -50,7 +50,7 @@
 </a>
 </p>
 <details>
-        <summary>⚡ Microsoft Tools </summary>
+        <summary>💻 Microsoft Tools </summary>
         <br />
         <p align="center">
             <a href="https://github.com/Mynuddin-dev">
@@ -84,7 +84,17 @@
         </p>
   
 </details>
-  
+  <details>
+        <summary>🔥 Streak Stats </summary>
+       <p align="center">
+           <a href="https://github.com/Mynuddin-dev/github-readme-streak-stats">
+               <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mynuddin-dev's streak"
+                   src="https://github-readme-streak-stats.herokuapp.com/?user=Mynuddin-dev&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=60D9FA&fire=60D9FA&currStreakLabel=60D9FA" />
+           </a>
+           <p align="center">🔥 Get streak stats for your profile at <a
+                   href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+       </p>
+</details>
 
 
 <p align="center">
