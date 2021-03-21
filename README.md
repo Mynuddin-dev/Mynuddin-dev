@@ -3,11 +3,12 @@
 
 
 ### 👨🏻‍💻 &nbsp;About Me
-- 🔭 I’m currently working on Javascript
-- 🌱 I’m currently learning Everythings
+- 💡  I like to explore new technologies, new language, Problem solving and quick hacks.
+- 🌱 I'm on track for learning DataScience, AI, ML and Deep Learning.
+- 🎓 I'm currently studying Software Engineering at Noakhali Science and Technology University
 - 👯 I’m looking to collaborate Who Working on DataScience
-- 💬 Fell free to knock me 
-- 📫 How to reach me: Email,Facebbok,LinkedIn
+- ✉️ You can shoot me an email at dr.mdmynuddin@gmail.com I'll try to respond as soon as I can.
+- 💬 Fell free to knock me :)
 - ⚡ Fun fact: I am a good Chef 😄 and Game Lover also.
 
 
@@ -80,8 +81,21 @@
 </details>
 
 
-
-  ## 🙋‍♂️ Connect with me
+<p align="center">
   
+  <h2 align="center"> 🙋‍♂️ Connect with me </h2>
+  <p align="center">
+  <a href="https://www.facebook.com/md.mynuddin.585" target="_blank"><img
+                src="https://img.shields.io/badge/Facebook-05122A?style=flat&logo=facebook&logoColor=white">
+        </a>
+  <a href="https://www.linkedin.com/in/md-mynuddin-6782a3161/" target="_blank"><img
+                src=https://img.shields.io/badge/LinkedIn-05122A?style=flat&logo=linkedin&logoColor=white">
+                </a>
+  <a href="https://github.com/Mynuddin-dev" target="_blank"><img
+                src=https://img.shields.io/badge/GitHub-05122A?style=flat&logo=github&logoColor=white"> </a>
+                </center>
+</p>
+  
+</p>  
   
         
