@@ -50,6 +50,22 @@
 </a>
 </p>
 
+
+<details>
+        <summary>⚡ Recent Activity Graph </summary>
+        <br />
+  <p align="center">
+            <!-- Here is the link of Activity graph source-->
+            <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+                <img src="https://activity-graph.herokuapp.com/graph?username=Mynuddin-dev&theme=react-dark&area=true&hide_border=true"
+                    width="100%">
+            </a>
+        </p>
+  
+</details>
+  
+
+
 <p align="center">
   
   <h2 align="center"> 🙋‍♂️ Connect with me </h2>
@@ -66,5 +82,6 @@
 </p>
   
 </p>  
-  
+
+
         
