@@ -49,7 +49,28 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mynuddin-dev&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
+<details>
+        <summary>⚡ Microsoft Tools </summary>
+        <br />
+        <p align="center">
+            <a href="https://github.com/Mynuddin-dev">
+                <img
+                    src="https://img.shields.io/badge/Microsoft_Excel-05122A?style=flat&logo=microsoft-excel&logoColor=white">
+            </a>
+            <a href="https://github.com/Mynuddin-dev">
+                <img
+                    src="https://img.shields.io/badge/Microsoft_PowerPoint-05122A?style=flat&logo=microsoft-powerpoint&logoColor=white">
+            </a>
+            <a href="https://github.com/Mynuddin-dev">
+                <img src=https://img.shields.io/badge/Microsoft_Access-05122A?style=flat&logo=microsoft-access&logoColor=white>
+                    </a> <a href="https://github.com/Mynuddin-dev">
+                <img src=https://img.shields.io/badge/Microsoft_Word-05122A?style=flat&logo=microsoft-word&logoColor=white">
+                    </a> <a href="https://github.com/Mynuddin-dev">
+                <img
+                    src="https://img.shields.io/badge/Microsoft_Power_BI-05122A?style=flat&logo=microsoft-power-bil&logoColor=white">
+            </a>
+        </p>
+</details>
 
 <details>
         <summary>⚡ Recent Activity Graph </summary>
