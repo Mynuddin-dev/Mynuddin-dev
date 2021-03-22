@@ -35,10 +35,21 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
+![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
+
+
+![Premiere Pro](https://img.shields.io/badge/-Adobe-05122A?style=flat&logo=adobe)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
+![Premiere Pro](https://img.shields.io/badge/-Adobe_Premiere_Pro-05122A?style=flat&logo=adobe-premiere-pro)&nbsp;
+![Premiere Pro](https://img.shields.io/badge/-Adobe_After_Effects-05122A?style=flat&logo=adobe-after-effects)&nbsp;
+
+
+
+![Android](https://img.shields.io/badge/Android-05122A?style=flat&logo=android&logoColor=white)&nbsp;
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)&nbsp;
+![Windows-XP](https://img.shields.io/badge/Windows_XP-003399?style=flat&logo=windows-xp&logoColor=white)
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
