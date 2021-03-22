@@ -22,29 +22,29 @@
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Anaconda](https://img.shields.io/badge/-Anaconda-05122A?style=flat&logo=anaconda&logoColor=2C2255)&nbsp;
+![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=flat&logo=anaconda&logoColor=2C2255)&nbsp;
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter&logoColor=2C2255)&nbsp;
-![PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=pycharm&logoColor=2C2255)\
+![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=2C2255)\
 ![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)&nbsp;
 ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat&logo=eclipse-ide&logoColor=2C2255)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)\
-![Adobe](https://img.shields.io/badge/-Adobe-05122A?style=flat&logo=adobe)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)\
+![Adobe](https://img.shields.io/badge/-Adobe-FF0000?style=flat&logo=adobe)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)\
 ![Premiere Pro](https://img.shields.io/badge/-Adobe_Premiere_Pro-05122A?style=flat&logo=adobe-premiere-pro)&nbsp;
-![After Effects](https://img.shields.io/badge/-Adobe_After_Effects-05122A?style=flat&logo=adobe-after-effects)&nbsp;
-![Audacity](https://img.shields.io/badge/-Audacity-05122A?style=flat&logo=audacity&logoColor=2C2255)\
-![Android](https://img.shields.io/badge/Android-05122A?style=flat&logo=android&logoColor=white)&nbsp;
+![After Effects](https://img.shields.io/badge/-Adobe_After_Effects-420420?style=flat&logo=adobe-after-effects)&nbsp;
+![Audacity](https://img.shields.io/badge/-Audacity-000000?style=flat&logo=audacity&logoColor=2C2255)\
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)&nbsp;
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)&nbsp;
 ![Windows-XP](https://img.shields.io/badge/Windows_XP-003399?style=flat&logo=windows-xp&logoColor=white)
 
