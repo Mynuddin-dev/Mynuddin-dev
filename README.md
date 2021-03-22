@@ -63,17 +63,19 @@
         <p align="center">
             <a href="https://github.com/Mynuddin-dev">
                 <img
-                    src="https://img.shields.io/badge/Microsoft_Excel-05122A?style=flat&logo=microsoft-excel&logoColor=white">
+                    src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white">
             </a>
             <a href="https://github.com/Mynuddin-dev">
                 <img
-                    src="https://img.shields.io/badge/Microsoft_PowerPoint-05122A?style=flat&logo=microsoft-powerpoint&logoColor=white">
+                    src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white">
             </a>
             <a href="https://github.com/Mynuddin-dev">
-                <img src=https://img.shields.io/badge/Microsoft_Access-05122A?style=flat&logo=microsoft-access&logoColor=white>
-                    </a> <a href="https://github.com/Mynuddin-dev">
-                <img src=https://img.shields.io/badge/Microsoft_Word-05122A?style=flat&logo=microsoft-word&logoColor=white">
-                    </a> <a href="https://github.com/Mynuddin-dev">
+                <img src=https://img.shields.io/badge/Microsoft_Access-A4373A?style=flat&logo=microsoft-access&logoColor=white>
+                    </a> 
+          <a href="https://github.com/Mynuddin-dev">
+                <img src=https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat&logo=microsoft-word&logoColor=white">
+                    </a>                                                                                                         
+          <a href="https://github.com/Mynuddin-dev">
                 <img
                     src="https://img.shields.io/badge/Microsoft_Power_BI-05122A?style=flat&logo=microsoft-power-bil&logoColor=white">
             </a>
