@@ -8,7 +8,6 @@
 ![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png?raw=true)
 
 ### 👨🏻‍💻 &nbsp;About Me
----
 - 💡  I like to explore new technologies, new language, Problem solving and quick hacks.
 - 🌱  I'm on track for learning DataScience, AI, ML and Deep Learning.
 - 🎓  I'm currently studying Software Engineering at Noakhali Science and Technology University
@@ -111,17 +110,16 @@
   <h2 align="center"> 🙋‍♂️ Connect with me </h2>
   <p align="center">
   <a href="https://www.facebook.com/md.mynuddin.585" target="_blank"><img
-                src="https://img.shields.io/badge/Facebook-05122A?style=flat&logo=facebook&logoColor=white">
+                src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white">
         </a>
   <a href="https://www.linkedin.com/in/md-mynuddin-6782a3161/" target="_blank"><img
-                src=https://img.shields.io/badge/LinkedIn-05122A?style=flat&logo=linkedin&logoColor=white">
+                src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white">
                 </a>
   <a href="https://github.com/Mynuddin-dev" target="_blank"><img
-                src=https://img.shields.io/badge/GitHub-05122A?style=flat&logo=github&logoColor=white"> </a>
+                src="https://img.shields.io/badge/github%20-%23121011.svg?&style=flat&logo=github&logoColor=white"> </a>
                 </center>
 </p>
   
 </p>  
-
 
         
