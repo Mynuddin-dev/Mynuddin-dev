@@ -8,6 +8,7 @@
 ![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png?raw=true)
 
 ### 👨🏻‍💻 &nbsp;About Me
+---
 - 💡  I like to explore new technologies, new language, Problem solving and quick hacks.
 - 🌱  I'm on track for learning DataScience, AI, ML and Deep Learning.
 - 🎓  I'm currently studying Software Engineering at Noakhali Science and Technology University
@@ -15,7 +16,6 @@
 - ✉️  You can shoot me an email at dr.mdmynuddin@gmail.com I'll try to respond as soon as I can.
 - 💬  Feel free to knock me :)
 - ⚡  Fun fact: I am a good Chef 😄 and Game Lover also.
-
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -47,7 +47,7 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)&nbsp;
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)&nbsp;
 ![Windows-XP](https://img.shields.io/badge/Windows_XP-003399?style=flat&logo=windows-xp&logoColor=white)
-
+---
 
 ### ⚙️ &nbsp;GitHub Analytics
 
