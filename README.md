@@ -111,13 +111,13 @@
   <p align="center">
   <a href="https://www.facebook.com/md.mynuddin.585" target="_blank"><img
                 src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white">
-        </a>
+        </a>&nbsp;
   <a href="https://www.linkedin.com/in/md-mynuddin-6782a3161/" target="_blank"><img
                 src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white">
-                </a>
+                </a>&nbsp;
   <a href="https://github.com/Mynuddin-dev" target="_blank"><img
-                src="https://img.shields.io/badge/github%20-%23121011.svg?&style=flat&logo=github&logoColor=white"> </a>
-                </center>
+                src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"> </a>
+                </center>&nbsp;
 </p>
   
 </p>  
