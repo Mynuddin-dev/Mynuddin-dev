@@ -62,54 +62,15 @@
 </p>
 
 
-<details>
-        <summary>💻 Microsoft Tools </summary>
-        <br />
-        <p align="center">
-            <a href="https://github.com/Mynuddin-dev">
-                <img
-                    src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white">
-            </a>
-            <a href="https://github.com/Mynuddin-dev">
-                <img
-                    src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white">
-            </a>
-            <a href="https://github.com/Mynuddin-dev">
-                <img src=https://img.shields.io/badge/Microsoft_Access-A4373A?style=flat&logo=microsoft-access&logoColor=white>
-                    </a> 
-          <a href="https://github.com/Mynuddin-dev">
-                <img src=https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat&logo=microsoft-word&logoColor=white">
-                    </a>                                                                                                         
-          <a href="https://github.com/Mynuddin-dev">
-                <img
-                    src="https://img.shields.io/badge/Microsoft_Power_BI-05122A?style=flat&logo=microsoft-power-bil&logoColor=white">
-            </a>
-        </p>
-</details>
 
-<details>
-        <summary>⚡ Recent Activity Graph </summary>
-        <br />
-  <p align="center">
-            <!-- Here is the link of Activity graph source-->
-            <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-                <img src="https://activity-graph.herokuapp.com/graph?username=Mynuddin-dev&theme=react-dark&area=true&hide_border=true"
-                    width="100%">
-            </a>
-        </p>
-  
-</details>
-  <details>
-        <summary>🔥 Streak Stats </summary>
-       <p align="center">
-           <a href="https://github.com/Mynuddin-dev/github-readme-streak-stats">
-               <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mynuddin-dev's streak"
-                   src="https://github-readme-streak-stats.herokuapp.com/?user=Mynuddin-dev&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=60D9FA&fire=60D9FA&currStreakLabel=60D9FA" />
-           </a>
-           <p align="center">🔥 Get streak stats for your profile at <a
-                   href="https://git.io/streak-stats">git.io/streak-stats</a></p>
-       </p>
-</details>
+ <p align="center">
+     <a href="https://github.com/Mynuddin-dev/github-readme-streak-stats">
+         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mynuddin-dev's streak"
+             src="https://github-readme-streak-stats.herokuapp.com/?user=Mynuddin-dev&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=60D9FA&fire=60D9FA&currStreakLabel=60D9FA" />
+     </a>
+     <p align="center">🔥 Get streak stats for your profile at <a
+             href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+ </p>
 
 
 <p align="center">
