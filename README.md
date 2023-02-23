@@ -16,6 +16,11 @@
 - 💬  Feel free to knock me :)
 - ⚡  Fun fact: I am a good Chef 😄 and Game Lover also.
 
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/{Mynuddin-dev}/count.svg" />
+</p>
+ 
+
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
@@ -90,4 +95,5 @@
   
 </p>  
 
-        
+
+      
